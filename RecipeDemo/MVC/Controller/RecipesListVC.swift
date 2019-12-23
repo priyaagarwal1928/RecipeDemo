@@ -70,7 +70,7 @@ class RecipesListVC: UIViewController,UITableViewDataSource,UITableViewDelegate 
     
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
         
-        return UIScreen.main.bounds.width * 0.8
+        return UIScreen.main.bounds.width * 0.6
     }
 
 

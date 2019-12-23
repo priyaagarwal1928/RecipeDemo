@@ -49,11 +49,11 @@
                                                     </userDefinedRuntimeAttributes>
                                                 </imageView>
                                                 <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Pis-to-igN">
-                                                    <rect key="frame" x="12" y="184.5" width="390" height="36.5"/>
+                                                    <rect key="frame" x="12" y="187" width="390" height="34"/>
                                                     <subviews>
                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vSw-Bq-zSu">
-                                                            <rect key="frame" x="8" y="8" width="374" height="20.5"/>
-                                                            <fontDescription key="fontDescription" name="MarkPro-Medium" family="Mark Pro" pointSize="16"/>
+                                                            <rect key="frame" x="8" y="8" width="374" height="18"/>
+                                                            <fontDescription key="fontDescription" name="MarkPro-Medium" family="Mark Pro" pointSize="14"/>
                                                             <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                             <nil key="highlightedColor"/>
                                                         </label>
